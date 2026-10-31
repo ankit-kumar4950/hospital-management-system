@@ -134,3 +134,48 @@ Create a PostgreSQL database named `hospital_db` and configure its connection in
 
 ### 5. Doctors Management
 ![Doctors Management](screenshots/doctors.png)
+## Project Handover Information
+
+### Live Project Links
+
+- **Live Website:** https://hospital-management-system-two-chi.vercel.app
+- **Backend API Documentation:** https://hospital-management-system-fcwb.onrender.com/docs
+- **GitHub Repository:** https://github.com/ankit-kumar4950/hospital-management-system
+
+### Technology Stack
+
+| Component | Technology |
+|---|---|
+| Frontend | React + Vite |
+| Backend | Python + FastAPI |
+| Database | PostgreSQL on Neon |
+| Frontend Hosting | Vercel |
+| Backend Hosting | Render |
+| Source Control | GitHub |
+| Authentication | JWT + Argon2 password hashing |
+
+### Main Features
+
+- Admin login and authentication
+- Dashboard statistics
+- Patient management
+- Doctor management
+- Appointment management
+- Medical records management
+- Billing management
+- PDF exports for all five management modules
+
+### Deployment Information
+
+- Frontend deployed on Vercel.
+- Backend deployed on Render.
+- PostgreSQL database hosted on Neon.
+- Environment variables are configured securely on the hosting platforms.
+
+### Project Status
+
+The application has been deployed and the main modules, authentication, database connection, and PDF exports have been tested successfully.
+
+### Security Note
+
+Never publish database passwords, secret keys, JWT tokens, or private environment variables in this repository.
