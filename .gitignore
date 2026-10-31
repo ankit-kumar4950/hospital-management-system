@@ -1,0 +1,27 @@
+
+# Environment secrets
+.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Node.js
+node_modules/
+dist/
+
+# Logs
+*.log
+# Local database and backup files
+*.dump
+*.backup
+*.sql
+
+# IDE and operating system
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
