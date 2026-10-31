@@ -118,3 +118,19 @@ Do not store admin passwords in this README.
 ## Database
 
 Create a PostgreSQL database named `hospital_db` and configure its connection in the backend `.env` file.
+## 📸 Project Screenshots
+
+### 1. Admin Login
+![Admin Login](screenshots/login.png)
+
+### 2. Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### 3. Dashboard Overview
+![Dashboard Overview](screenshots/dashboard_lower_section.png)
+
+### 4. Patients Management
+![Patients Management](screenshots/patients.png)
+
+### 5. Doctors Management
+![Doctors Management](screenshots/doctors.png)
